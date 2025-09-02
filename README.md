@@ -216,3 +216,6 @@ node export.js wallet
 node export.js channel_participation
 
 node export.js channels
+
+
+<!-- Security scan triggered at 2025-09-02 04:50:46 -->
